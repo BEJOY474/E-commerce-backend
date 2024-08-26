@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Phone Model A1",
+        "slug": "phone-model-a1",
+        "description": "A powerful phone with great features.",
+        "price": 699,
+        "quantity": 50,
+        "sold": 20,
+        "shipping": 10,
+        "image": "phone-a1.jpg",
+        "category": "66c891774e2b22bd81d6cf1a"
+    },
+    {
+        "name": "Phone Model A2",
+        "slug": "phone-model-a2",
+        "description": "A sleek phone with a stunning display.",
+        "price": 799,
+        "quantity": 30,
+        "sold": 15,
+        "shipping": 12,
+        "image": "phone-a2.jpg",
+        "category": "66c891774e2b22bd81d6cf1a"
+    },
+    {
+        "name": "Phone Model B1",
+        "slug": "phone-model-b1",
+        "description": "A budget-friendly phone with excellent battery life.",
+        "price": 399,
+        "quantity": 70,
+        "sold": 25,
+        "shipping": 8,
+        "image": "phone-b1.jpg",
+        "category": "66c891774e2b22bd81d6cf1a"
+    },
+    {
+        "name": "Phone Model B2",
+        "slug": "phone-model-b2",
+        "description": "A high-performance phone with advanced features.",
+        "price": 899,
+        "quantity": 20,
+        "sold": 10,
+        "shipping": 15,
+        "image": "phone-b2.jpg",
+        "category": "66c891774e2b22bd81d6cf1a"
+    },
+    {
+        "name": "TV Model X1",
+        "slug": "tv-model-x1",
+        "description": "A 55-inch TV with stunning 4K resolution.",
+        "price": 1199,
+        "quantity": 25,
+        "sold": 5,
+        "shipping": 20,
+        "image": "tv-x1.jpg",
+        "category": "66c893203ffdf9038587df61"
+    },
+    {
+        "name": "TV Model X2",
+        "slug": "tv-model-x2",
+        "description": "A 65-inch TV with smart features.",
+        "price": 1399,
+        "quantity": 15,
+        "sold": 3,
+        "shipping": 25,
+        "image": "tv-x2.jpg",
+        "category": "66c893203ffdf9038587df61"
+    },
+    {
+        "name": "TV Model Y1",
+        "slug": "tv-model-y1",
+        "description": "A 75-inch TV with OLED display.",
+        "price": 1899,
+        "quantity": 10,
+        "sold": 2,
+        "shipping": 30,
+        "image": "tv-y1.jpg",
+        "category": "66c893203ffdf9038587df61"
+    }
+]

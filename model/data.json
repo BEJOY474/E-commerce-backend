@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Tamim Iqbal",
+    "email": "TIqbal@gmail.com",
+    "password": "12345678",
+    "image": "https://i0.wp.com/iansportalimages.s3.amazonaws.com/images/fece5354ecbebe852c803595161fa4e2.jpg?w=1200&ssl=1l",
+    "address": "Dhanmoddi-32, Dhaka"
+  },
+  {
+    "name": "Rishad Hossin",
+    "email": "rHossin@gmail.com",
+    "password": "12345678123",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/382800/382809.png",
+    "address": "Malibug, Dhaka"
+  },
+  {
+    "name": "Nafiz Iqbal",
+    "email": "nIqbal@gmail.com",
+    "password": "na45678",
+    "image": "https://images.prothomalo.com/prothomalo-english%2F2023-09%2Fcccbd774-dba9-4731-868a-f0e4577e9975%2Fprothomalo_bangla_2023_09_7a06b313_0603_416f_8b18_20445638eb2b_361349678_823077285863734_16487803775.webp?rect=0%2C0%2C1090%2C572&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
+    "address": "Dhanmoddi-12, Dhaka"
+  },
+  {
+    "name": "Sabbir Rumman",
+    "email": "rSabbir@gmail.com",
+    "password": "sabbir123",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT__mz1KfiFwgOWT4LJBq4Mw_FDCR5KGo76Dw&s",
+    "address": "Lalbug, Dhaka"
+  }
+]
